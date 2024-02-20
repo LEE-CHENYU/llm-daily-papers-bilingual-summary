@@ -1,1 +1,3 @@
-# llm_daily_papers_bilingual_summary
+# Llm Daily Papers Bilingual Summary
+
+Daily Summaries of Hugging Face Papers: Bilingual Insights in English and Chinese
