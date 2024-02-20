@@ -1,1 +1,1 @@
-# llm_daily_papers
+# llm_daily_papers_bilingual_summary
